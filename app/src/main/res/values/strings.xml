@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityTrainingExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="message_received">Message Received</string>
+    <string name="reply">Reply</string>
+    <string name="replyhere">Enter Your Reply Here</string>
+    <string name="reply_received">Reply Received</string>
+</resources>
