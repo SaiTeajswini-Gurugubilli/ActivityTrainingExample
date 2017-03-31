@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         mMessageEditText = (EditText)findViewById(R.id.editText_main);
         mReplyHeader = (TextView)findViewById(R.id.text_header_reply);
         mReplyText = (TextView)findViewById(R.id.text_message_reply);
-           }
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
